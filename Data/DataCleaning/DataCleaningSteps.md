@@ -12,7 +12,7 @@
 * County number - we have city and zipcode in our data so county number was deemed redundant
 * Category - we have the category name so the category number is redundant
 
-# Steps to further reduce data sample (see ADD TITLE HERE)
+# Steps to further reduce data sample (see LiquorSalesSamplev2.csv.zip)
 #### These cleaning steps were performed to further reduce our sample data to the attributes necessary to answer our questions (from proposal slide deck)
 1. Added a reference number to column A so that we would be able to sort the data as desired without losing the original order (numbered rows in ascending order)
 
@@ -76,5 +76,5 @@ The item number appears to be the last 3 digits of the concatenated Invoice/Item
 
 There are 148,431 invoice numbers that have more than 2 line items.
 
-Discuss with team how we should proceed.
+Removed lines that have 1 line item in the invoice. Our data sample was reduced from 1,034,741 from 1,004,380.
 
