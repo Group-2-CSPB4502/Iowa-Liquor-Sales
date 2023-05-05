@@ -41,8 +41,8 @@ Results for question 6 were covered in section 6.6. The results of the most freq
 
 
 ## Link to the video demonstration 
-[https://drive.google.com/file/d/1-D4fwcwBHCq-WRI2rB3p9kpv6EiK5srI/view?usp=share_link]()
+[Video Presentation](https://drive.google.com/file/d/1-D4fwcwBHCq-WRI2rB3p9kpv6EiK5srI/view?usp=share_link)
 
 ## Link to your final project paper
-[https://docs.google.com/document/d/1VDaHzX5OaHy2XkZj86yWspM4sd2gTmPSdYsdEWUiho8/edit?usp=sharing]()
+[Part 4](https://docs.google.com/document/d/1VDaHzX5OaHy2XkZj86yWspM4sd2gTmPSdYsdEWUiho8/edit?usp=sharing)
 
